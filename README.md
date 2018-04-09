@@ -3,9 +3,9 @@ howieMiner is a Windows only build that will only work for AMD cards and only mi
 
 I have increased the ethminer program by roughly 10-15% and the only charge is that 5% of every hour mines for me.
 
-I have made it simpler to add in parameters to the bat file.
+I have made it simpler to add in parameters to the bat file, please follow instructions in bat file.
 
-I have made it smaller than other ethereum mining programs.
+I have made it much smaller than other ethereum mining programs, this is a mining on a ethermine pool only program.
 
 The program runs the first 3 minutes for my wallet than 57 for the wallet input.  There is no option to run for my wallet all the time or your wallet for all the time.  If you don't want me getting 5% of your mining when you get a 10-15% increase, do not use this program.  I bare no responsibility for any type of damage or any type of loss that is caused from running this program.  All risk and responsibility lies with the person that runs the program.
 
